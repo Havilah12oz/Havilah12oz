@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Havilah12oz
 - 👀 I’m interested in software development and programming 
 - 🌱 I’m currently learning programming at ALX
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with new people in my part way
 - 📫 You can reach me on +23408143576383 or Facebook:izibeboasue obele
 
 <!---
